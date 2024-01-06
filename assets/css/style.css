@@ -2572,82 +2572,6 @@ blockquote {
   line-height: 15px
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.primary-btn-card {
-  background-image: linear-gradient(rgba(255, 255, 255, .26), rgba(255, 255, 255, 0));
-  border: 1px #000;
-  border-radius: 100px;
-  padding: .5px;
-  font-size: 16px;
-  line-height: 15px;
-  margin-bottom: 20px;
-  text-align: center;
-  justify-content: center;
-}
-
-.inner-primary-btn-card {
-    height: 44px;
-    grid-column-gap: 6px;
-    color: #fff;
-    background-color: #1e1e1e;
-    border-radius: 100px;
-    flex-direction: row;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    padding: 11px 16px 11px 20px;
-    font-family: Matter, sans-serif;
-    text-decoration: none;
-    transition: background-color .2s;
-    display: flex
-  }
-  
-  .inner-primary-btn-card:hover {
-    background-color: #252525
-  }
-  
-  .inner-primary-btn-card.form {
-    color: #000;
-    background-color: #38e492;
-    padding-right: 20px;
-    font-size: 16px;
-    line-height: 24px
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .primary-btn:hover {
   background-image: linear-gradient(rgba(255, 255, 255, .35), rgba(255, 255, 255, 0))
 }
@@ -5616,3 +5540,145 @@ svg::selection {
     padding: 7px 20px;
     border-radius: 7px;
 }
+
+
+/* ********************************************* VASU ****************************************** */
+
+.container-profile{
+  width: 100%;
+  max-width: 1170px;
+  margin: 0px auto;
+}
+
+.vasu-img img
+{
+  width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
