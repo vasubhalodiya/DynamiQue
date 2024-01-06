@@ -219,6 +219,38 @@
     font-display:swap;
 }
 
+@font-face {
+    font-family: 'Matter';
+    src: url('/assets/font/Matter-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Mattersq';
+    src: url('/assets/font/MatterSQ-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Mattersq';
+    src: url('/assets/font/MatterSQ-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Matter';
+    src: url('/assets/font/Matter-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+
 img{max-width:100%;}
 input.text,
 input[type="text"],
@@ -250,6 +282,7 @@ abbr[title] {
 }
 body{
     font-family: 'Poppins-Regular';
+    background: #0b0b0b;
 }
 .p_0{
     padding: 0px;
@@ -272,17 +305,18 @@ body{
     width: 100%;
     max-width: 1170px;
     margin: 0px auto;
-  }
+}
   
-  .vasu
-  {
+.vasu
+{
     display: flex;
-  }
-  
-  .vasu-txt
-  {
-    margin-top: 0px;
-  }
+    margin: 50px;
+}
+
+.vasu-txt
+{
+    color: #fff;
+}
 
 
 
