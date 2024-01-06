@@ -266,7 +266,6 @@ body{
     margin: 0px auto;
 }
 
-
 /* ********************************************* VASU ****************************************** */
 
 .container-profile{
@@ -280,9 +279,9 @@ body{
     display: flex;
   }
   
-  .vasu-img img
+  .vasu-txt
   {
-    width: 50%;
+    margin-top: 0px;
   }
 
 
@@ -373,4 +372,4 @@ body{
 
 
 
-  
+
