@@ -2508,6 +2508,21 @@ blockquote {
   position: relative
 }
 
+.header-txt h1
+{
+  position: relative;
+}
+
+.header-txt img
+{
+  position: absolute;
+  top: -50px;
+  left: -50px;
+
+  width: 200px;
+  opacity: 0.1;
+}
+
 .header-txt.mt-40 {
   margin-top: 40px
 }
