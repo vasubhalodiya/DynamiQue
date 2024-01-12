@@ -2517,9 +2517,9 @@ blockquote {
 {
   position: absolute;
   top: -50px;
-  left: -50px;
+  left: -130px;
 
-  width: 200px;
+  width: 250px;
   opacity: 0.1;
 }
 
