@@ -2614,6 +2614,12 @@ blockquote {
   position: relative
 }
 
+.home-logo {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 .header-title h1
 {
   font-size: 58px;
